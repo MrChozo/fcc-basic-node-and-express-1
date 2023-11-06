@@ -3,37 +3,5 @@ let app = express();
 
 console.log("Hello world");
 
+module.exports = app;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- module.exports = app;
